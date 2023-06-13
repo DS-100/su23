@@ -1,0 +1,43 @@
+---
+layout: page
+title: Home / Schedule
+nav_order: 1
+description: A week-to-week description of the content covered in the course.
+course:
+  edstem: https://edstem.org/us/courses/33744/
+  faq: https://ds100.org/sp23faq
+currWeekNumber: 1
+---
+
+# Principles and Techniques of Data Science
+
+{: .mb-2 }
+UC Berkeley, Summer 2023
+{: .mb-0 .fs-6 .text-grey-dk-000 }
+
+
+[Ed](#){: .btn .btn-ed .mr-1 }
+[Datahub](#){: .btn .btn-datahub .mr-1 }
+[Gradescope](#){: .btn .btn-gradescope .mr-1 }
+[Extenuating Circumstances](#){: .btn .btn-blue .mr-1}
+
+<div>
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+  <div class="role">
+    {% for staffer in instructors %}
+    {{ staffer }}
+    {% endfor %}
+  </div>
+</div>
+
+{: .highlight }
+> Coming soon...
+
+
+<a name="schedule"></a>
+## Schedule
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
+
