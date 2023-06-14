@@ -16,4 +16,4 @@ Jul 19
 : **Discussion 9**{: .label .label-disc } Exam Review
 
 Jul 20
-: **Midterm**{: .label .label-exam }
+: **Midterm**{: .label .label-exam } Midterm Exam (5-7 PM)

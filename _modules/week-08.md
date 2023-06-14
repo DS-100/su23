@@ -15,4 +15,4 @@ Aug 9
 : **Discussion 15**{: .label .label-disc } Clustering, Final Review
 
 Aug 10
-: **Final Exam**{: .label .label-exam }
+: **Final**{: .label .label-exam } Final Exam (5-7 PM)

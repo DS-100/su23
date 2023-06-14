@@ -19,7 +19,7 @@ UC Berkeley, Summer 2023
 [Ed](https://edstem.org/us/courses/40266){:target="_blank" .btn .btn-ed .mr-1 }
 [Datahub](http://data100.datahub.berkeley.edu/){:target="_blank" .btn .btn-datahub .mr-1 }
 [Gradescope](https://www.gradescope.com/courses/546710){:target="_blank" .btn .btn-gradescope .mr-1 }
-[Extenuating Circumstances](#){: .btn .btn-blue .mr-1}
+[Extenuating Circumstances](https://forms.gle/GRREdhkik6bKm9bJA){: .btn .btn-blue .mr-1}
 
 <div>
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}

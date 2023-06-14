@@ -10,11 +10,11 @@ course:
     edstem: 
     faq: https://ds100.org/su23faq
     bcourses: ""
-    instructors: Lisa and Narges
-    head_ta_1: Kanu Grover 
-    head_1_email: grover.kanu@berkeley.edu
-    head_ta_2: Bella Crouch
-    head_2_email: isabella.crouch@berkeley.edu
+    instructors: Bella and Dominic
+    head_ta_1: Mihran Miroyan
+    head_1_email: miroyan.mihran@berkeley.edu
+    head_ta_2: 
+    head_2_email: 
     comms_ta: support email
     comms_email: data100.support@berkeley.edu
     email: data100.instructors@berkeley.edu
@@ -50,16 +50,16 @@ While we are working to make this class widely accessible, we currently require 
 
 - **Computing**: The Structure and Interpretation of Computer Programs ([CS 61A](http://cs61a.org/){:target="_blank"}) or Computational Structures in Data Science ([Data 88C](https://c88c.org/){:target="_blank"}). These courses provide additional background in python programming (e.g., for loops, lambdas, debugging, and complexity) that will enable Data 100 to focus more on the concepts in Data Science and less on the details of programming in python.
 
-- **Math**: Linear Algebra (Math 54, EE 16A, Math 91, Math 110, or Stat 89A): We will need some basic concepts like linear operators, eigenvectors, derivatives, and integrals to enable statistical inference and derive new prediction algorithms. **This may be satisfied concurrently to Data 100.**
+- **Math**: Linear Algebra (Math 54, EECS 16A, Math 91, Math 110, or Stat 89A). We will need some basic concepts like linear operators, eigenvectors, derivatives, and integrals to enable statistical inference and derive new prediction algorithms. **This may be satisfied concurrently to Data 100.**
 
 Please consult the [Resources](../resources) page for additional resources for reviewing prerequisite material.
 
 
-**Textbook**: There is no official textbook for Data 100 this semester; in its stead, we will provide course notes that will be released with the respective lectures.
+**Textbook**: There is no official textbook for Data 100 this semester; we will provide course notes that will be released with the respective lectures.
 
 
 ## Course Culture
-Students taking Data C100 come from a wide range of backgrounds. We hope to foster an inclusive and safe learning environment based on curiosity rather than competition. All members of the course community—the instructor, students, and GSIs—are expected to treat each other with courtesy and respect. Some of the responsibility for that lies with the staff, but a lot of it ultimately rests with you, the students.
+Students taking Data C100 come from a wide range of backgrounds. We hope to foster an inclusive and safe learning environment based on curiosity rather than competition. All members of the course community — the instructors, students, and course staff — are expected to treat each other with courtesy and respect. Some of the responsibility for that lies with the staff, but a lot of it ultimately rests with you, the students.
 
 
 ### Be Aware of Your Actions
@@ -181,7 +181,7 @@ We want to enable everyone to succeed in this course. We encourage you to discus
 
 Course Communication:
 
-- **EdStem**, or **Ed** for short, is our course forum this semester. The course is [here]({{page.course.edstem}}){:target="_blank"}. **_All course announcements will be through Ed._** We are not using bCourses this semester. Please check out Ed or the [FAQ]({{page.course.faq}}){:target="_blank"} page first before emailing course staff directly.
+- **EdStem**, or **Ed** for short, is our course forum this semester. The course is [here](https://edstem.org/us/courses/40266){:target="_blank"}. **_All course announcements will be through Ed._** We are not using bCourses this semester. Please check out Ed or the [FAQ]({{page.course.faq}}){:target="_blank"} page first before emailing course staff directly.
 
     - Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley’s Principles of Community](https://diversity.berkeley.edu/principles-community){:target="_blank"} and the [Berkeley Campus Code of Student Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf){:target="_blank"}.
 
@@ -216,7 +216,7 @@ All assignments are due at **_11:59 PM Pacific Time_** on the due date specified
 
 ### Grace Period
 
-We recognize that life can be unexpected, and that you may face circumstances that prevent you from submitting your work by the posted deadline. In light of this, we offer a 1-day (24 hour) **grace period** for late submissions of homeworks, projects, and labs.Note that this grace period is designed to account for unexpected emergencies or assignment submission errors – you should not plan in advance to use it! 
+We recognize that life can be unexpected, and that you may face circumstances that prevent you from submitting your work by the posted deadline. In light of this, we offer a 1-day (24 hour) **grace period** for late submissions of homeworks, projects, and labs. Note that this grace period is designed to account for unexpected emergencies or assignment submission errors – you should not plan in advance to use it! 
 
 You can make a late submission after the on-time deadline and up to the end of the grace period. **These late submissions are not penalized, but do not earn 3% the on-time bonus.** You do not need to explicitly contact staff about late submissions; just submit directly to Gradescope within the listed grace period.
 
@@ -231,7 +231,7 @@ We recognize that our students come from varied backgrounds and have widely-vary
 
 The **[Extenuating Circumstances Form](https://forms.gle/GRREdhkik6bKm9bJA){:target="_blank"}** is for any circumstances that cannot be resolved via the grace period policy above. Within two business days of filling out the form, a course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu).
 
-We recognize that at times, it can be difficult to manage your course performance—particularly in such a huge course, and particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). **Our Grace Period Policy combined with the Extenuating Circumstances Form is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term.** So please do not hesitate to reach out.
+We recognize that at times, it can be difficult to manage your course performance — particularly in such a huge course, and particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). **Our Grace Period Policy combined with the Extenuating Circumstances Form is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term.** So please do not hesitate to reach out.
 
 Note that extenuating circumstances do not extend to logistical oversight, such as Datahub/Gradescope tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on Gradescope. **It is the student’s responsibility to identify and resolve these issues in advance of the on-time deadline.** We will not grant accommodations for these cases; instead, please use the grace period to cushion these submission errors.
 
@@ -245,7 +245,7 @@ You are responsible for reasonable communication with course staff. If you make 
 
 ### Regrade Requests
 
-Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through Gradescope, and autograder regrades via a Google Form. The deadline for regrade requests (autograded and written) is one week after grades are released for the corresponding assignment.
+Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through Gradescope, and autograder regrades via a Google Form. The deadline for regrade requests (autograded and written) is one week after the grades are released for the corresponding assignment.
 
 **Always check that the autograder executes correctly!** Gradescope will show you the output of the public tests, and you should see the same results as you did on DataHub. If you see a discrepancy, ensure that you have exported the assignment correctly and, if there is still an issue, post on Ed _as soon as possible_.
 
@@ -274,7 +274,7 @@ Finally, know that it’s normal to struggle. Berkeley has high standards, which
 
 ## Academic and Wellness Resources
 
-Our [Resources](../resources) page lists not only course-specific academic resources such as course notes, past exams, study guides, and prerequisite review links, but also campus wellness resources on COVID-19, academic support, technology support, mental well-being, DSP accommodations, dispute resolution, social services, campus community, nad basic needs. Our staff will also refer to this page when supporting you through this course.
+Our [Resources](../resources) page lists not only course-specific academic resources such as course notes, past exams, study guides, and prerequisite review links, but also campus wellness resources on COVID-19, academic support, technology support, mental well-being, DSP accommodations, dispute resolution, social services, campus community, and basic needs. Our staff will also refer to this page when supporting you through this course.
 
 
 ## We want you to succeed!
