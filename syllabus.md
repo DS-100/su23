@@ -6,9 +6,9 @@ description: >-
     Principles and Techniques of Data Science
 markdown: kramdown
 course:
-    semester: Spring 2023
-    edstem: https://edstem.org/us/courses/33744/
-    faq: https://ds100.org/sp23faq
+    semester: Summer 2023
+    edstem: 
+    faq: https://ds100.org/su23faq
     bcourses: ""
     instructors: Lisa and Narges
     head_ta_1: Kanu Grover 
@@ -145,7 +145,7 @@ You will be invited to share your timing preferences for discussions and assigne
     * Each assignment will include detailed instructions on how to submit your work for grading. It is the student’s responsibility to read these carefully and ensure that their work is submitted correctly. Assignment accommodations will not be granted in cases where students have mis-submitted their work (for example, by submitting to the wrong portal, submitting only part of an assignment, forgetting to select pages, or failing to pass autograder tests)
 * Homeworks and projects have both visible and hidden autograder tests. The visible tests are mainly sanity checks. For example, a sanity check might verify that the answer you entered is a number as expected, and not a word. The hidden tests generally check for correctness, and are invisible to students while they are doing the assignment.
 * The primary form of support students will have for homeworks and projects are **office hours** and **Ed**.
-* Homeworks and projects must be completed individually. See the [Collaboration Policy](#collaboration-policy-and-academic-dishonesty) for more details.
+* Homeworks and projects must be completed individually. See the [Collaboration Policy](#collaboration-policy-and-academic-honesty) for more details.
 * See the [Policies](#policies) section for the submission grace period.
 
 
@@ -202,7 +202,7 @@ Ed is your primary platform for asking questions about the class. It is monitore
 | Labs | 10% | Drop 2 lowest scores|
 | Discussion | 5% | Drop 3 lowest scores|
 | Midterm Exam | 15%| |
-| Final Exam | 25% | |
+| Final Exam | 30% | |
 
 Discussion attendance is expected for the summer session. Students with low discussion attendance scores may alternatively shift this 5% of the course grade onto their homework score, such that homework is worth 30% of the overall grade. Course staff will automatically apply whichever grading policy will maximize your final grade in the course at the end of the semester.
 
