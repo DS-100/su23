@@ -55,7 +55,7 @@ function initNav() {
 
 function initSearch() {
   var request = new XMLHttpRequest();
-  request.open('GET', '/data100/assets/js/search-data.json', true);
+  request.open('GET', '/su23/assets/js/search-data.json', true);
 
   request.onload = function(){
     if (request.status >= 200 && request.status < 400) {
@@ -434,7 +434,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', '/data100/assets/css/just-the-docs-' + theme + '.css');
+  cssFile.setAttribute('href', '/su23/assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Scroll site-nav to ensure the link to the current page is visible
