@@ -31,7 +31,7 @@ UC Berkeley, Summer 2023
 </div>
 
 {: .highlight }
-> Coming soon...
+> The website is still a work in progress. All contents are subject to change until this message is taken down.
 
 
 <a name="schedule"></a>
