@@ -9,7 +9,7 @@ course:
 currWeekNumber: 1
 ---
 
-# Principles and Techniques of Data Science
+# Data 100: Principles and Techniques of Data Science
 
 {: .mb-2 }
 UC Berkeley, Summer 2023
