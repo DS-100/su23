@@ -2341,11 +2341,13 @@ blockquote.highlight-title > p:last-child { margin-bottom: 0; }
 
 .role { display: flex; flex-wrap: wrap; margin-bottom: 1.5rem; }
 
-.staffer { display: flex; flex-basis: 100%; padding: 1rem; }
+.staffer { display: flex; flex-basis: 90%; padding: 1rem; padding-right: 4rem; }
 @media (min-width: 31.25rem) { .staffer { flex-basis: 50%; } }
 .staffer .staffer-pronouns { text-align: center; border-radius: 9px; text-transform: none !important; }
-.staffer .staffer-image { border-radius: 50%; height: 100px; margin-right: 1rem; }
-.staffer p, .staffer .staffer-name, .staffer p { margin: 0.25rem !important; }
+
+.staffer-image { border-radius: 50%; height: 100px; margin-right: 1rem; }
+
+.staffer-name, .staffer p { margin: 0.25rem; }
 
 @media (min-width: 66.5rem) { .side-bar { width: 248px !important; }
   .main { margin-left: 264px !important; } }
