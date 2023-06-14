@@ -1,5 +1,3 @@
-@import 'variables';
-
 .role {
   display: flex;
   flex-wrap: wrap;
@@ -8,8 +6,9 @@
 
 .staffer {
   display: flex;
-  flex-basis: 100%;
+  flex-basis: 90%;
   padding: $sp-4;
+  padding-right: $sp-10;
 
   @include mq(sm) {
     flex-basis: 50%;
@@ -25,15 +24,14 @@
     border-radius: 9px;
     text-transform: none !important;
   }
+}
 
-  .staffer-image {
-    border-radius: 50%;
-    height: $staffer-image-size;
-    margin-right: $sp-4;
-  }
+.staffer-image {
+  border-radius: 50%;
+  height: $staffer-image-size;
+  margin-right: $sp-4;
+}
 
-  p,
-  .staffer-name {
-    margin: $sp-1 !important;
-  }
+.staffer-name {
+  margin: $sp-1;
 }
