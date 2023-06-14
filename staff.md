@@ -12,7 +12,7 @@ Jump to: [Instructors](#inst), [Teaching Assistants](#tas), [Readers](#readers).
 **Note:** Consult the [calendar]({{ site.baseurl }}/calendar) for the most up-to-date office hours for each GSI.
 
 ## Course Staff Email
-Contact course staff at [data100.instructors@berkeley.edu](mailto:data100.instructors@berkeley.edu) with any questions or concerns. This email is monitored by instructors and a few lead TAs.
+Contact course staff via Ed with any questions or concerns. For sensitive matters, the staff email address [data100.instructors@berkeley.edu](mailto:data100.instructors@berkeley.edu) is monitored by the instructors and a few lead TAs.
 
 <a name = 'inst'></a>
 
