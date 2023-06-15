@@ -16,12 +16,12 @@ Jump to:
 {:toc}
 
 ## Supplementary Course Notes
-Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes/). These are in development for the Spring 2023 Edition of the UC Berkeley course Data 100: Principles and Techniques of Data Science.
+Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes/). 
 
 Lecture notes will be updated on a weekly basis, prior to the lecture. If you spot any errors or would like to suggest any changes, please email us at data100.instructors@berkeley.edu.
 
 ## Optional Supplementary Textbook
-Alongside each lecture are optional textbook readings to the Data 100 textbook, [Principles and Techniques of Data Science](https://www.textbook.ds100.org/). Textbook readings are purely supplementary, and may contain material that is not in scope (and may also not be comprehensive). The textbook is *actively in development* during Spring 2023! Some readings may become out-of-date or reordered as the semester progresses. If you see a reading on our schedule that no longer exists, don't hesitate to send a pull request to our course GitHub (see [below](#course_website)).
+Alongside each lecture are optional textbook readings to the Data 100 textbook, [Principles and Techniques of Data Science](https://www.textbook.ds100.org/). Textbook readings are purely supplementary, and may contain material that is not in scope (and may also not be comprehensive).
 
 
 ## Exam Resources
@@ -50,12 +50,12 @@ Alongside each lecture are optional textbook readings to the Data 100 textbook, 
 <a name = 'course_website'></a>
 ## Course Website
 
-We will be posting all lecture materials on the course syllabus. In addition, they will also be listed in the following publicly visible [Github Repo](https://github.com/DS-100/sp23).
+We will be posting all lecture materials on the course syllabus. In addition, they will also be listed in the following publicly visible [Github Repo](https://github.com/DS-100/su23-materials).
 
 You can send us changes to the course website by
 [forking](https://help.github.com/articles/fork-a-repo/) and sending a [pull
 request](https://help.github.com/articles/about-pull-requests/) to the [course
-website github repository](https://github.com/DS-100/sp23). You will then
+website github repository](https://github.com/DS-100/su23). You will then
 become part of the history of Data 100 at Berkeley.
 
 ## Coding and Mathematics Resources
