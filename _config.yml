@@ -40,6 +40,7 @@ footer: >-
   Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
 aux_links_new_tab: false
 nav_links_new_tab: true
+heading_anchors: false
 
 color_scheme: wider
 
