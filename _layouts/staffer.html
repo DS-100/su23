@@ -27,8 +27,10 @@
     {% if page.lab %}
     <p><b>Lab(s):</b> {{ page.lab }}</p>
     {% endif %}
-
-    <p><b>Office Hour(s):</b> {{ page.oh }}</p>
+    
+    {% if page.oh %}
+    <p><b>Office Hours:</b> {{ page.oh }}</p>
+    {% endif %}
 
     {{ content }}
   </div>
