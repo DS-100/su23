@@ -4,7 +4,7 @@ title: Week 3
 
 Jul 3
 : <i>Break (no lecture)</i>
-: **Discussion 4**{: .label .label-disc } Regex
+: **Discussion 4**{: .label .label-disc } Regex <i>(optional)</i>
 : **Lab 4**{: .label .label-lab } Transformation (due Jul 8)
 : **Lab 5**{: .label .label-lab } Modeling, Summary Statistics, Loss Functions (due Jul 8)
 : **Homework 4**{: .label .label-hw } Bike Sharing (Visualization) (due Jul 6)

@@ -31,7 +31,9 @@ UC Berkeley, Summer 2023
 </div>
 
 {: .highlight }
-> The website is still a work in progress. All contents are subject to change until this message is taken down.
+> Welcome to Data 100! Lecture begins Tuesday, 6/20, at 5 pm.
+> 
+> Please fill out the [Pre-Semester Student Survey](https://docs.google.com/forms/d/e/1FAIpQLSfYhQzehWdPWDqrCY9jjDgzP-UXait7cTUUuyHCMc-y7vd6Zg/viewform?usp=sf_link){:target="_blank"} to help us onboard you to the class.
 
 
 <a name="schedule"></a>
