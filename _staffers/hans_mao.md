@@ -2,7 +2,7 @@
 name: Hans Mao
 role: Reader
 email: huanzhimao@berkeley.edu
-website: www.huanzhimao.com
+website: https://huanzhimao.com
 photo: http://ds100.org/su23/resources/assets/staff_pics/Hans_Mao.jpg
 pronouns: He/Him/His
 ---
