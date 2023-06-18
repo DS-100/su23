@@ -18,4 +18,4 @@ Jul 5
 
 Jul 6
 : **Lecture 9**{: .label .label-lecture } Modeling, SLR
-: **Homework 5**{: .label .label-hw } Modeling (due Jul 3)
+: **Homework 5**{: .label .label-hw } Modeling (due Jul 10)

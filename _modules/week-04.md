@@ -7,7 +7,7 @@ Jul 10
 : **Discussion 6**{: .label .label-disc } Sampling, SLR
 : **Lab 6**{: .label .label-lab } Ordinary Least Squares (due Jul 15)
 : **Lab 7**{: .label .label-lab } Gradient Descent, Feature Engineering (due Jul 15)
-: **Homework 6**{: .label .label-hw } Regression (due Jun 29)
+: **Homework 6**{: .label .label-hw } Regression (due Jul 13)
 
 Jul 11
 : **Lecture 11**{: .label .label-lecture} Ordinary Least Squares
