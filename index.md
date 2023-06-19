@@ -31,9 +31,11 @@ UC Berkeley, Summer 2023
 </div>
 
 {: .highlight }
-- Welcome to Data 100! Lecture begins Tuesday, 6/20, at 5 pm.
-- Frequently Asked Questions: Before posting on the [class Ed](https://edstem.org/us/courses/40266), please read the [class FAQ page](https://ds100.org/su23faq/).
-- The [Syllabus](syllabus) contains a detailed explanation of how each course component will work this Summer, please take time to take a look.
+> Welcome to Data 100! Lecture begins Tuesday, 6/20, at 5 pm.
+>
+> Frequently Asked Questions: Before posting on the [class Ed](https://edstem.org/us/courses/40266), please read the [class FAQ page](https://ds100.org/su23faq/).
+>
+> The [Syllabus](syllabus) contains a detailed explanation of how each course component will work this Summer, please take time to take a look.
 
 
 <a name="schedule"></a>
