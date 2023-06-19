@@ -120,7 +120,7 @@ Below is a high-level “typical week in the course” for Summer 2023.
 
 ### Lecture
 
-There are 4 live **lectures** held Mondays to Thursdays, 5:00 pm - 6:30 pm, in-person in [Li Ka Shing 245](https://goo.gl/maps/HLudDJi3vp6TN2Tz6){:target="_blank"}. All lecture recordings, slides, activities, and examples will be provided to the course website within 24 hours of the lecture.
+There are 4 live **lectures** held Mondays to Thursdays, 5:00 pm - 6:30 pm, in-person in [Li Ka Shing 245](https://www.berkeley.edu/map/?likashing){:target="_blank"}. All lecture recordings, slides, activities, and examples will be provided to the course website within 24 hours of the lecture.
 
 
 ### Discussion
