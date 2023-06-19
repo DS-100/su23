@@ -33,13 +33,11 @@ nav_external_links:
     url: https://ds100.org/su23faq
     hide_icon: true
   - title: Course Notes
-    url: https://ds100.org/course-notes/
+    url: https://ds100.org/course-notes-su23/
     hide_icon: true
 
 footer: >-
   Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
-aux_links_new_tab: false
-nav_links_new_tab: true
 heading_anchors: false
 
 color_scheme: wider
