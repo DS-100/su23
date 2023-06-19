@@ -132,6 +132,7 @@ The lectures, assignments, and exams of this course are structured with the **ex
 
 * Discussion attendance will be recorded each week and account for 5% of the overall grade
 * All students are automatically granted 3 discussion drops to use for illness, personal emergencies, or other extenuating circumstances. These drops are designed to account for unexpected events – you should not plan to use them!
+* Attending the exam-prep session on Friday can replace either a missed Monday or a missed Wednesday section only for that specific week. Details about exam-prep sections will be released in the second week of classes.
 * Students with low discussion attendance scores may alternatively shift this 5% of the course grade onto their homework score. Course staff will automatically determine which grading policy will maximize your final grade in the course at the end of the semester.
 
 You will be invited to share your timing preferences for discussions and assigned to a section in the first week of classes.
