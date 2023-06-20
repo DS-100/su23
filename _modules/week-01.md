@@ -3,7 +3,8 @@ title: Week 1
 ---
 
 Jun 20
-: **Lecture 1**{: .label .label-lecture } Course Overview
+: **Lecture 1**{: .label .label-lecture } [Course Overview](lecture/lec01)
+    : [Note 1](https://ds100.org/course-notes-su23/intro_lec/introduction.html)
 : **Lab 1**{: .label .label-lab } Prerequisite Coding (due Jun 24)
 : **Homework 1**{: .label .label-hw } Intro + Prerequisites (due Jun 26)
 
