@@ -6,3 +6,4 @@ _staffers/sheets_parser.json
 .*.swp
 .*.swo
 DS_Store
+.bundle

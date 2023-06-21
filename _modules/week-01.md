@@ -10,7 +10,7 @@ Jun 20
 : **Homework 1B**{: .label .label-hw } [Prerequisite Math](https://drive.google.com/file/d/1yWakQTRRdyA-etJG-nwptXmECnO2phLC/view?usp=share_link){:target="_blank"} (due Jun 26)
 
 Jun 21
-: **Lecture 2**{: .label .label-lecture } Pandas I
+: **Lecture 2**{: .label .label-lecture } [Pandas I](lecture/lec02)
 : **Discussion 1**{: .label .label-disc } [Math Prerequisites](https://drive.google.com/file/d/1vOVxBK1Lr1tQ2V_V2aYqdTAXIllRTicD/view?usp=sharing)
 
 Jun 22
