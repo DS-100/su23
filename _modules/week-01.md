@@ -11,7 +11,7 @@ Jun 20
 
 Jun 21
 : **Lecture 2**{: .label .label-lecture } Pandas I
-: **Discussion 1**{: .label .label-disc } Math Prerequisites
+: **Discussion 1**{: .label .label-disc } [Math Prerequisites](https://drive.google.com/file/d/1vOVxBK1Lr1tQ2V_V2aYqdTAXIllRTicD/view?usp=sharing)
 
 Jun 22
 : **Lecture 3**{: .label .label-lecture } Pandas II
