@@ -104,13 +104,13 @@ If you are unable to attend in-person discussion sections and office hours this 
 
 Below is a high-level “typical week in the course” for Summer 2023.
 
-|  Mo | Tu | We | Th | Fr |
+|  Mo | Tu | We | Th | Fr | Sat |
 | --- | --- | --- | --- | --- | --- |
 | Office Hours | Office Hours | Office Hours | Office Hours | Office Hours | 
 | <span style="color:Green">Live Lecture</span>| <span style="color:Green">Live Lecture</span> | <span style="color:Green">Live Lecture</span> | <span style="color:Green">Live Lecture</span> | |
 |<span style="color:Blue">Discussion Section</span>| |<span style="color:Blue">Discussion Section</span>| |<span style="color:Blue">Exam Prep/Catch-Up</span> | 
 |<span style="color:Red">Homework due</span>| | |<span style="color:Red">Homework due</span>| | 
-| || | | <span style="color:Red">2 Labs due</span>|
+| || | | | <span style="color:Red">2 Labs due</span>|
 
 
 - **All deadlines are subject to change.**
