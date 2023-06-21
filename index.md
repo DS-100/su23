@@ -31,7 +31,7 @@ UC Berkeley, Summer 2023
 </div>
 
 {: .highlight }
-> Welcome to Data 100! Lecture begins Tuesday, 6/20, at 5 pm.
+> Students who enrolled in the class after 6/20: email [data100.instructors@berkeley.edu](mailto:data100.instructors@berkeley.edu) so we can onboard you to the class.
 >
 > Frequently Asked Questions: Before posting on the [class Ed](https://edstem.org/us/courses/40266), please read the [class FAQ page](https://ds100.org/su23faq/).
 >
