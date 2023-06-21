@@ -2,7 +2,7 @@
 name: Yuerou Tang
 role: Teaching Assistant
 email: yuerou.tang@berkeley.edu
-website: https://yuerout.github.io/projects//
+website: https://yuerout.github.io/birds/
 photo: http://ds100.org/su23/resources/assets/staff_pics/Yuerou_Tang.jpg
 pronouns: They/Them/Theirs
 ---
