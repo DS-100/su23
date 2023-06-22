@@ -144,7 +144,7 @@ Least Squares ([Note 23](https://inst.eecs.berkeley.edu/~ee16a/fa19/lecture/Note
 - Data 100 textbook: Geometric Perspective of Linear Projection ([Chapter 15](https://www.textbook.ds100.org/ch/15/linear_multi_fit.html)); Vector Spaces ([Appendix 2](https://www.textbook.ds100.org/ch/a02/vector_space_review.html))
 - 3blue1brown: [Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page)
 - Khan Academy: [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
-- MIT OpenCourseware: [Linear Algebra Video Lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+- MIT OpenCourseware: [Linear Algebra Video Lectures](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/)
 
 
 #### Probability
