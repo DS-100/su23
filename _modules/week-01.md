@@ -16,4 +16,5 @@ Jun 21
     : [Solution](https://drive.google.com/file/d/17WuF16jEFQyl8mRv0il7MjSyQ9RDDgPN/view?usp=sharing)
 
 Jun 22
-: **Lecture 3**{: .label .label-lecture } Pandas II
+: **Lecture 3**{: .label .label-lecture } [Pandas II](lecture/lec03)
+    : [Note 3](https://ds100.org/course-notes-su23/pandas_2/pandas_2.html)
