@@ -13,6 +13,7 @@ Jun 21
 : **Lecture 2**{: .label .label-lecture } [Pandas I](lecture/lec02)
     : [Note 2](https://ds100.org/course-notes-su23/pandas_1/pandas_1.html)
 : **Discussion 1**{: .label .label-disc } [Math Prerequisites](https://drive.google.com/file/d/1vOVxBK1Lr1tQ2V_V2aYqdTAXIllRTicD/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/17WuF16jEFQyl8mRv0il7MjSyQ9RDDgPN/view?usp=sharing)
 
 Jun 22
 : **Lecture 3**{: .label .label-lecture } Pandas II
