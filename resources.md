@@ -16,7 +16,7 @@ Jump to:
 {:toc}
 
 ## Supplementary Course Notes
-Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes/). 
+Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes-su23/). 
 
 Lecture notes will be updated on a weekly basis, prior to the lecture. If you spot any errors or would like to suggest any changes, please email us at data100.instructors@berkeley.edu.
 
