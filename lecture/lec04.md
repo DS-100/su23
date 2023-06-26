@@ -1,0 +1,15 @@
+---
+layout: page
+title: Lecture 4 – Pandas, Part III and EDA, Part I
+nav_exclude: true
+---
+
+# Lecture 4 – Pandas, Part III and EDA, Part I
+
+Presented by Dominic Liu
+
+Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
+
+- [slides](https://docs.google.com/presentation/d/1C_RIOOQfPZ0C6wU4L2jx__5J93ijD8gcv_-arg1hyH8/edit?usp=sharing){:target="_blank"}
+- [Pandas Demo](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Flec%2Flec04%2Flec04-pandas-iii.ipynb){:target="_blank"} ([HTML](../../resources/assets/lectures/lec04/lec04-pandas-iii.html){:target="_blank"})
+- [EDA Demo](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Flec%2Flec04%2Flec04-eda.ipynb){:target="_blank"} ([HTML](../../resources/assets/lectures/lec04/lec04-eda.html){:target="_blank"})

@@ -3,7 +3,8 @@ title: Week 2
 ---
 
 Jun 26
-: **Lecture 4**{: .label .label-lecture } Pandas III, EDA I
+: **Lecture 4**{: .label .label-lecture } [Pandas III, EDA I](lecture/lec04)
+    : [Note 4](https://ds100.org/course-notes-su23/pandas_3/pandas_3.html)
 : **Discussion 2**{: .label .label-disc } Pandas [worksheet](https://drive.google.com/file/d/1Nv371VvjkEVN_hnnbxwFrJ2bZ4NsW0QB/view?usp=sharing){:target="_blank"}, [worksheet notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Fdisc%2Fdisc02%2Fdisc02-worksheet-blank.ipynb){:target="_blank"}, [groupwork notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Fdisc%2Fdisc02%2Fdisc02_groupwork.ipynb){:target="_blank"}
 : **Lab 2**{: .label .label-lab } Pandas (due Jul 1)
 : **Lab 3**{: .label .label-lab } Data Cleaning and EDA (due Jul 1)
