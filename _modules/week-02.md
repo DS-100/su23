@@ -12,7 +12,8 @@ Jun 26
 : **Homework 2**{: .label .label-hw } [Pandas](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Fhw%2Fhw02%2Fhw02.ipynb){:target="_blank"} (due Jun 29)
 
 Jun 27
-: **Lecture 5**{: .label .label-lecture} EDA II
+: **Lecture 5**{: .label .label-lecture} [EDA II](lecture/lec05)
+    : [Note 5](https://ds100.org/course-notes-su23/eda/eda.html)
 
 Jun 28
 : **Lecture 6**{: .label .label-lecture } Text Wrangling, Regex
