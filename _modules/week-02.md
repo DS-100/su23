@@ -16,7 +16,8 @@ Jun 27
     : [Note 5](https://ds100.org/course-notes-su23/eda/eda.html)
 
 Jun 28
-: **Lecture 6**{: .label .label-lecture } Text Wrangling, Regex
+: **Lecture 6**{: .label .label-lecture } [Text Wrangling, Regex](lecture/lec06)
+    : [Note 6](https://ds100.org/course-notes-su23/regex/regex.html)
 : **Discussion 3**{: .label .label-disc } [EDA](https://drive.google.com/file/d/1HM8AyH4WnvhmUmgw3oAjHAZao1kyyjGJ/view?usp=sharing){:target="_blank"}
 
 Jun 29
