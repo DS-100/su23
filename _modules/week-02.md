@@ -17,7 +17,7 @@ Jun 27
 
 Jun 28
 : **Lecture 6**{: .label .label-lecture } Text Wrangling, Regex
-: **Discussion 3**{: .label .label-disc } EDA
+: **Discussion 3**{: .label .label-disc } [EDA](https://drive.google.com/file/d/1HM8AyH4WnvhmUmgw3oAjHAZao1kyyjGJ/view?usp=sharing){:target="_blank"}
 
 Jun 29
 : **Lecture 7**{: .label .label-lecture } Visualization
