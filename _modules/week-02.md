@@ -23,4 +23,4 @@ Jun 28
 
 Jun 29
 : **Lecture 7**{: .label .label-lecture } Visualization
-: **Homework 3**{: .label .label-hw } Tweets (due Jul 3)
+: **Homework 3**{: .label .label-hw } [Tweets](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Fhw%2Fhw03%2Fhw03.ipynb){:target="_blank"} (due Jul 3)
