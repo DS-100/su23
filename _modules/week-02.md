@@ -19,6 +19,7 @@ Jun 28
 : **Lecture 6**{: .label .label-lecture } [Text Wrangling, Regex](lecture/lec06)
     : [Note 6](https://ds100.org/course-notes-su23/regex/regex.html)
 : **Discussion 3**{: .label .label-disc } [EDA](https://drive.google.com/file/d/1HM8AyH4WnvhmUmgw3oAjHAZao1kyyjGJ/view?usp=sharing){:target="_blank"}
+    : [Solution](https://drive.google.com/file/d/1vQ8YLUHdOyXFzzR1qy0aaaSOqzIuf2XY/view?usp=sharing)
 
 Jun 29
 : **Lecture 7**{: .label .label-lecture } Visualization
