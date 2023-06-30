@@ -13,3 +13,4 @@ Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowle
 - [slides](https://docs.google.com/presentation/d/1Zmc_kokOIicNjxohASH0ulCJ2kW3s7MM4o_ja9j0Uxc/edit?usp=sharing){:target="_blank"}
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Flec%2Flec07%2Flec07.ipynb){:target="_blank"}
 - [code HTML](../../resources/assets/lectures/lec07/lec07.html)
+- [recording](https://bcourses.berkeley.edu/courses/1525605/pages/lecture-7-visualization)
