@@ -28,3 +28,4 @@ Jun 29
 
 Jun 30
 : **Exam Prep 1**{: .label .label-vit } [Pandas](https://drive.google.com/file/d/1vQd6gAPaKitBW70EiXHCuSBTN4nLoNC3/view?usp=sharing){:target="_blank"}
+    : [Solution](https://drive.google.com/file/d/1wa5ACbT9yNDtZD-baqZVSfwDxmuVg2Vb/view?usp=sharing)
