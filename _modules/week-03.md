@@ -14,7 +14,8 @@ Jul 4
 : <i>Independence Day (no lecture)</i>
 
 Jul 5
-: **Lecture 8**{: .label .label-lecture } Sampling
+: **Lecture 8**{: .label .label-lecture } [Sampling](lecture/lec08)
+    : [Note 8](https://ds100.org/course-notes-su23/sampling/sampling.html)
 : **Discussion 5**{: .label .label-disc } Visualization [Worksheet](https://drive.google.com/file/d/1wZs71ShfLf9FR8qmgIAVyD2veVn-d6O4/view?usp=sharing){:target="_blank"}, [Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Fdisc%2Fdisc05%2Fdisc05_coding_exercises.ipynb)
 
 Jul 6
