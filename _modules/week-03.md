@@ -15,7 +15,7 @@ Jul 4
 
 Jul 5
 : **Lecture 8**{: .label .label-lecture } Sampling
-: **Discussion 5**{: .label .label-disc } Visualization
+: **Discussion 5**{: .label .label-disc } [Visualization](https://drive.google.com/file/d/1wZs71ShfLf9FR8qmgIAVyD2veVn-d6O4/view?usp=sharing){:target="_blank"}
 
 Jul 6
 : **Lecture 9**{: .label .label-lecture } Modeling, SLR
