@@ -31,11 +31,7 @@ UC Berkeley, Summer 2023
 </div>
 
 {: .highlight }
-> Students who enrolled in the class after 6/20: email [data100.instructors@berkeley.edu](mailto:data100.instructors@berkeley.edu) so we can onboard you to the class.
->
-> Frequently Asked Questions: Before posting on the [class Ed](https://edstem.org/us/courses/40266), please read the [class FAQ page](https://ds100.org/su23faq/).
->
-> The [Syllabus](syllabus) contains a detailed explanation of how each course component will work this Summer, please take time to take a look.
+> Welcome to Week 3! Please see this week's logistics post on [Ed](https://edstem.org/us/courses/40266/discussion/3237203).
 
 
 <a name="schedule"></a>
