@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Lecture 8 – Sampling
 
-Presented by Bella Crouch
+Presented by Dominic Liu
 
 Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
 

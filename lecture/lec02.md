@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Lecture 2 – Pandas, Part I
 
-Presented by Bella
+Presented by Bella Crouch
 
 Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
 

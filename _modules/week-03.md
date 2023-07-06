@@ -20,5 +20,7 @@ Jul 5
     : [Solution](https://drive.google.com/file/d/10GeMo4J5j3NClHU2XcfhKW9f_FzpSVF1/view?usp=sharing)
 
 Jul 6
-: **Lecture 9**{: .label .label-lecture } Modeling, SLR
-: **Homework 5**{: .label .label-hw } Modeling (due Jul 10)
+: **Lecture 9**{: .label .label-lecture } [Modeling, SLR](lecture/lec09)
+    : [Note 9](https://ds100.org/course-notes-su23/intro_to_modeling/intro_to_modeling.html)
+: **Homework 5A**{: .label .label-hw } [Modeling](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Fhw%2Fhw05%2Fhw05.ipynb) (due Jul 10)
+: **Homework 5B**{: .label .label-hw } [Modeling (written)](https://drive.google.com/file/d/1tq3K4z2TkgoFTXDprU-mMMOBSjnQtkLD/view?usp=sharing) (due Jul 10)

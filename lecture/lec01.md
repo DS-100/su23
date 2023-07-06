@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Lecture 1 – Introduction
 
-Presented by Bella and Dominic
+Presented by Bella Crouch and Dominic Liu
 
 Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
 

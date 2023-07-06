@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Lecture 6 – Text Wrangling and Regex
 
-Presented by Bella
+Presented by Bella Crouch
 
 Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
 

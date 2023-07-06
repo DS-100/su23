@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Lecture 5 – EDA II
 
-Presented by Dominic
+Presented by Dominic Liu
 
 Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
 
