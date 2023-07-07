@@ -6,7 +6,7 @@ description: A week-to-week description of the content covered in the course.
 course:
   edstem: https://edstem.org/us/courses/33744/
   faq: https://ds100.org/sp23faq
-currWeekNumber: 1
+currWeekNumber: 3
 ---
 
 # Data 100: Principles and Techniques of Data Science
@@ -31,7 +31,7 @@ UC Berkeley, Summer 2023
 </div>
 
 {: .highlight }
-> Welcome to Week 3! Please see this week's logistics post on [Ed](https://edstem.org/us/courses/40266/discussion/3237203).
+> Welcome to [Week 3](#week-{{page.currWeekNumber}})! Please see this week's logistics post on [Ed](https://edstem.org/us/courses/40266/discussion/3237203).
 
 
 <a name="schedule"></a>
