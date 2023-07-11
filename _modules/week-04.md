@@ -16,9 +16,9 @@ Jul 11
 : **Lecture 11**{: .label .label-lecture} Ordinary Least Squares
 
 Jul 12
-: **Lecture 12**{: .label .label-lecture } Gradient Descent, Sklearn
+: **Lecture 12**{: .label .label-lecture } Gradient Descent
 : **Discussion 7**{: .label .label-disc } Transformations, OLS
 
 Jul 13
-: **Lecture 13**{: .label .label-lecture } Feature Engineering
+: **Lecture 13**{: .label .label-lecture } Sklearn, Feature Engineering
 : **Project A1**{: .label .label-hw } Housing I (due Jul 17)
