@@ -13,7 +13,8 @@ Jul 10
 
 
 Jul 11
-: **Lecture 11**{: .label .label-lecture} Ordinary Least Squares
+: **Lecture 11**{: .label .label-lecture} [Ordinary Least Squares](lecture/lec11) (Multiple Linear Regression)
+    : [Note 11](https://ds100.org/course-notes-su23/ols/ols.html)
 
 Jul 12
 : **Lecture 12**{: .label .label-lecture } Gradient Descent
