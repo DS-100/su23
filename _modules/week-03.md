@@ -27,3 +27,4 @@ Jul 6
 
 Jul 7
 : **Exam Prep 2**{: .label .label-vit } [Regex, KDE Plots](https://drive.google.com/file/d/1MsVuP_cAsLW7Dzqo1mSHQlGzttqzbhDc/view?usp=sharing){:target="_blank"}
+    : [Solution](https://drive.google.com/file/d/1tCCf4MxFmOZQvMctdvg3i49HeeBp2jdG/view?usp=sharing)
