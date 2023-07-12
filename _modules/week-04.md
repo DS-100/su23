@@ -18,7 +18,7 @@ Jul 11
 
 Jul 12
 : **Lecture 12**{: .label .label-lecture } Gradient Descent
-: **Discussion 7**{: .label .label-disc } Transformations, OLS
+: **Discussion 7**{: .label .label-disc } [Transformations, OLS](https://drive.google.com/file/d/1Eyl0uR6vyXOHmpxCL7R9a-1fN0W2jv2B/view?usp=sharing)
 
 Jul 13
 : **Lecture 13**{: .label .label-lecture } Sklearn, Feature Engineering
