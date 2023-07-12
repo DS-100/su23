@@ -17,7 +17,8 @@ Jul 11
     : [Note 11](https://ds100.org/course-notes-su23/ols/ols.html)
 
 Jul 12
-: **Lecture 12**{: .label .label-lecture } Gradient Descent
+: **Lecture 12**{: .label .label-lecture } [Gradient Descent](lecture/lec12)
+    : [Note 12](https://ds100.org/course-notes-su23/gradient_descent/gradient_descent.html)
 : **Discussion 7**{: .label .label-disc } [Transformations, OLS](https://drive.google.com/file/d/1Eyl0uR6vyXOHmpxCL7R9a-1fN0W2jv2B/view?usp=sharing)
 
 Jul 13
