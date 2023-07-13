@@ -20,6 +20,7 @@ Jul 12
 : **Lecture 12**{: .label .label-lecture } [Gradient Descent](lecture/lec12)
     : [Note 12](https://ds100.org/course-notes-su23/gradient_descent/gradient_descent.html)
 : **Discussion 7**{: .label .label-disc } [Transformations, OLS](https://drive.google.com/file/d/1Eyl0uR6vyXOHmpxCL7R9a-1fN0W2jv2B/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/15XkU7n3LZDdtVgYLyv_gLkMdszmKoJY5/view?usp=sharing)
 
 Jul 13
 : **Lecture 13**{: .label .label-lecture } Sklearn, Feature Engineering
