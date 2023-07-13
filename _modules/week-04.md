@@ -24,4 +24,4 @@ Jul 12
 
 Jul 13
 : **Lecture 13**{: .label .label-lecture } Sklearn, Feature Engineering
-: **Project A1**{: .label .label-hw } Housing I (due Jul 17)
+: **Project A1**{: .label .label-hw } [Housing I](http://data100-jl4.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Fproj%2FprojA1%2FprojA1.ipynb) (due Jul 17)
