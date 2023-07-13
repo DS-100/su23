@@ -23,5 +23,6 @@ Jul 12
     : [Solution](https://drive.google.com/file/d/15XkU7n3LZDdtVgYLyv_gLkMdszmKoJY5/view?usp=sharing)
 
 Jul 13
-: **Lecture 13**{: .label .label-lecture } Sklearn, Feature Engineering
+: **Lecture 13**{: .label .label-lecture } [Sklearn, Feature Engineering](lecture/lec13)
+    : [Note 13](https://ds100.org/course-notes-su23/feature_engineering/feature_engineering.html)
 : **Project A1**{: .label .label-hw } [Housing I](http://data100-jl4.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Fproj%2FprojA1%2FprojA1.ipynb) (due Jul 17)
