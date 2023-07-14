@@ -11,7 +11,7 @@
 
 // Overrides
 @media (min-width: 66.5rem) {
-  .side-bar { width: 248px !important;}
+  .side-bar { width: 248px !important}
   .main { margin-left: 264px !important;}
 }
 
@@ -47,6 +47,10 @@
 .flex {
   display: flex;
   flex-wrap: wrap;
+}
+
+.site-footer {
+  color: #000000
 }
 
 code {

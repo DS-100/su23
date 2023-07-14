@@ -30,7 +30,7 @@ UC Berkeley, Summer 2023
   </div>
 </div>
 
-{: .highlight }
+{: .note }
 > Welcome to [Week 4](#week-{{page.currWeekNumber}})! Please see this week's logistics [post](https://edstem.org/us/courses/40266/discussion/3251403) on Ed.
 
 
