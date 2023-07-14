@@ -4,7 +4,7 @@ title: Lecture 13 – Sklearn, Feature Engineering
 nav_exclude: true
 ---
 
-# Lecture 12 – Sklearn, Feature Engineering
+# Lecture 13 – Sklearn, Feature Engineering
 
 Presented by Bella Crouch
 
