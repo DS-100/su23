@@ -66,5 +66,5 @@ defaults:
       layout: staffer
 
 callouts:
-  note:
+  highlight:
     color: yellow
