@@ -4,7 +4,7 @@ title: Lecture 15 – Cross-Validation, Regularization
 nav_exclude: true
 ---
 
-# Lecture 13 – Cross-Validation, Regularization
+# Lecture 15 – Cross-Validation, Regularization
 
 Presented by Bella Crouch
 
