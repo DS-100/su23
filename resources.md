@@ -28,7 +28,7 @@ Alongside each lecture are optional textbook readings to the Data 100 textbook, 
 
 | Semester | Midterm (1) | Midterm 2  | Final | Reference Sheet |
 | -- | -- | -- | -- | -- |
-|Summer 2023| | | | [Midterm](assets/exams/su23/su23_mt_reference_sheet.pdf)|
+|Summer 2023| [Exam](assets/exams/su23/su23_mt.pdf) [(Solutions)](assets/exams/su23/su23_mt_sol.pdf) | | | [Midterm](assets/exams/su23/su23_mt_reference_sheet.pdf)|
 |Spring 2023| [Exam](assets/exams/sp23/sp23_mt.pdf) [(Solutions)](assets/exams/sp23/sp23_mt_sol.pdf) | | [Exam](assets/exams/sp23/sp23_final.pdf) [(Solutions)](assets/exams/sp23/sp23_final_sol.pdf) | [Midterm](assets/exams/sp23/sp23_mt_reference_sheet.pdf), [Final](assets/exams/sp23/sp23_final_reference_sheet.pdf)|
 |Fall 2022| [Exam](assets/exams/fa22/fa22_mt.pdf) [(Solutions)](assets/exams/fa22/fa22_mt_sol.pdf)|||[Midterm](assets/exams/fa22/fa22_mt_reference_sheet.pdf)|
 | Summer 2022 | [Exam](assets/exams/su22/su22_mt.pdf) [(Solutions)](assets/exams/su22/su22_mt_sol.pdf)| | [Exam](assets/exams/su22/su22_final.pdf) [(Solutions)](assets/exams/su22/su22_final_sol.pdf) | [Midterm](assets/exams/su22/su22_mt_reference_sheet.pdf), [Final](assets/exams/su22/su22_final_reference_sheet.pdf)
