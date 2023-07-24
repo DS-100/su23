@@ -168,7 +168,7 @@ There will be two exams in this course:
 - **Midterm** on **Thursday, July 20 5-7 PM**.
 - **Final** on **Thursday, August 10 5-7 PM**.
 
-**All exams must be taken in-person.** There are no alternate times for either the Midterm or Final.
+**All exams must be taken in-person.** There will be one [alternate](https://edstem.org/us/courses/40266/discussion/3230557) final exam on **August 10 6:30-8:30PM**.
 
 ## Office Hours and Communication
 
