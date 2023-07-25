@@ -12,7 +12,8 @@ Jul 24
 : **Homework 7**{: .label .label-hw } [Probability and Estimators](https://data100-jl4.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Fhw%2Fhw07%2Fhw07.ipynb){:target="_blank"} (due Jul 27)
 
 Jul 25
-: **Lecture 17**{: .label .label-lecture} Estimators, Bias, and Variance
+: **Lecture 17**{: .label .label-lecture} [Estimators, Bias, and Variance](lecture/lec17)
+    : [Note 17](https://ds100.org/course-notes-su23/probability_2/probability_2.html)
 
 Jul 26
 : **Lecture 18**{: .label .label-lecture } Classification and Logistic Regression
