@@ -3,7 +3,8 @@ title: Week 6
 ---
 
 Jul 24
-: **Lecture 16**{: .label .label-lecture } Random Variables
+: **Lecture 16**{: .label .label-lecture } [Random Variables](lecture/lec16)
+    : [Note 16](https://ds100.org/course-notes-su23/probability_1/probability_1.html)
 : **Discussion 10**{: .label .label-disc } [Cross-Validation, Regularization](https://drive.google.com/file/d/1DDh_MlYLOUTu_DBAVnsmtTFo6RZQDAT9/view?usp=sharing)
 : **Lab 9**{: .label .label-lab } Probability (due Jul 29)
 : **Lab 10**{: .label .label-lab } Logistic Regression (due Jul 29)
