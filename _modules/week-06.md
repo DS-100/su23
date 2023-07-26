@@ -17,7 +17,7 @@ Jul 25
 
 Jul 26
 : **Lecture 18**{: .label .label-lecture } Classification and Logistic Regression
-: **Discussion 11**{: .label .label-disc } Random Variables, BVT
+: **Discussion 11**{: .label .label-disc } [Random Variables, BVT](https://drive.google.com/file/d/1_2bLq1kFKU5ahrXxyUpUTR2IcV0UB4xn/view?usp=sharing)
 
 Jul 27
 : **Lecture 19**{: .label .label-lecture } Logistic Regression II
