@@ -16,7 +16,7 @@ Jul 25
     : [Note 17](https://ds100.org/course-notes-su23/probability_2/probability_2.html)
 
 Jul 26
-: **Lecture 18**{: .label .label-lecture } [Classification and Logistic Regression](lecture/lec18)
+: **Lecture 18**{: .label .label-lecture } [Logistic Regression I](lecture/lec18)
     : [Note 18](https://ds100.org/course-notes-su23/logistic_regression_1/logistic_reg_1.html)
 : **Discussion 11**{: .label .label-disc } [Random Variables, BVT](https://drive.google.com/file/d/1_2bLq1kFKU5ahrXxyUpUTR2IcV0UB4xn/view?usp=sharing)
     : [Solution](https://drive.google.com/file/d/1JrBFQFDZFDS1wcqVflG3ztu1C-U763rI/view?usp=sharing)
