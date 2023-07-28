@@ -25,3 +25,6 @@ Jul 27
 : **Lecture 19**{: .label .label-lecture } [Logistic Regression II](lecture/lec19)
     : [Note 19](https://ds100.org/course-notes-su23/logistic_regression_2/logistic_reg_2.html)
 : **Project B1**{: .label .label-hw } [Spam & Ham I](https://data100-jl4.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Fproj%2FprojB1%2FprojB1.ipynb) (due Jul 31)
+
+Jul 28
+: **Exam Prep 3**{: .label .label-vit } [Regularization, Bias-Variance Tradeoff, Cross-Validation, Random Variables](https://drive.google.com/file/d/1kVC7pT2NvDkohNOeL8alnuJOgAHazWZL/view?usp=sharing){:target="_blank"}
