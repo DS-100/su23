@@ -28,3 +28,4 @@ Jul 27
 
 Jul 28
 : **Exam Prep 3**{: .label .label-vit } [Regularization, Bias-Variance Tradeoff, Cross-Validation, Random Variables](https://drive.google.com/file/d/1kVC7pT2NvDkohNOeL8alnuJOgAHazWZL/view?usp=sharing){:target="_blank"}
+    : [Solution](https://drive.google.com/file/d/1rIe8MchmSmQpD8K7aErwM3xfDrMvp-rJ/view?usp=sharing)
