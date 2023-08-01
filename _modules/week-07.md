@@ -3,7 +3,8 @@ title: Week 7
 ---
 
 Jul 31
-: **Lecture 20**{: .label .label-lecture } SQL I
+: **Lecture 20**{: .label .label-lecture } [SQL I](lecture/lec20)
+    : [Note 20](http://ds100.org/course-notes-su23/sql_I/sql_I.html)
 : **Discussion 12**{: .label .label-disc } [Logistic Regression](https://drive.google.com/file/d/1FR2Lij2JBrvHKmQ49lJ4CNPLnLW3OAaw/view?usp=sharing)
 : **Lab 11**{: .label .label-lab } SQL (due Aug 5)
 : **Lab 12**{: .label .label-lab } PCA (due Aug 5)
