@@ -12,7 +12,8 @@ Jul 31
 : **Project B2**{: .label .label-hw } [Spam & Ham II (due Aug 3)](http://data100-jl4.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Fproj%2FprojB2%2FprojB2.ipynb)
 
 Aug 1
-: **Lecture 21**{: .label .label-lecture} SQL II
+: **Lecture 21**{: .label .label-lecture} [SQL II](lecture/lec21)
+    : [Note 21](https://ds100.org/course-notes-su23/sql_II/sql_II.html)
 
 Aug 2
 : **Lecture 22**{: .label .label-lecture } PCA I
