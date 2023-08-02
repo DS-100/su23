@@ -16,7 +16,8 @@ Aug 1
     : [Note 21](https://ds100.org/course-notes-su23/sql_II/sql_II.html)
 
 Aug 2
-: **Lecture 22**{: .label .label-lecture } PCA I
+: **Lecture 22**{: .label .label-lecture } [PCA I](lecture/lec22)
+    : [Note 22](https://ds100.org/course-notes-su23/pca_1/pca_1.html)
 : **Discussion 13**{: .label .label-disc } [SQL](https://drive.google.com/file/d/1je0OyWazU7-2x4mYhOWhPdf-h7w-SdnM/view?usp=sharing)
 
 Aug 3
