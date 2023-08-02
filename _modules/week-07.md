@@ -17,7 +17,7 @@ Aug 1
 
 Aug 2
 : **Lecture 22**{: .label .label-lecture } PCA I
-: **Discussion 13**{: .label .label-disc } SQL
+: **Discussion 13**{: .label .label-disc } [SQL](https://drive.google.com/file/d/1je0OyWazU7-2x4mYhOWhPdf-h7w-SdnM/view?usp=sharing)
 
 Aug 3
 : **Lecture 23**{: .label .label-lecture } PCA II
