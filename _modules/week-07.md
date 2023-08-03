@@ -23,4 +23,4 @@ Aug 2
 
 Aug 3
 : **Lecture 23**{: .label .label-lecture } [PCA II](lecture/lec23)
-: **Homework 8**{: .label .label-hw } SQL, PCA (due Aug 7)
+: **Homework 8**{: .label .label-hw } [SQL, PCA](http://data100-jl4.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Fhw%2Fhw08%2Fhw08.ipynb) (due Aug 7)
