@@ -22,5 +22,5 @@ Aug 2
     : [Solution](https://drive.google.com/file/d/1kDEsV76A3-W-n6x3x06dmqus2EHJfBMl/view?usp=sharing)
 
 Aug 3
-: **Lecture 23**{: .label .label-lecture } PCA II
+: **Lecture 23**{: .label .label-lecture } [PCA II](lecture/lec23)
 : **Homework 8**{: .label .label-hw } SQL, PCA (due Aug 7)
