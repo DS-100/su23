@@ -19,6 +19,7 @@ Aug 2
 : **Lecture 22**{: .label .label-lecture } [PCA I](lecture/lec22)
     : [Note 22](https://ds100.org/course-notes-su23/pca_1/pca_1.html)
 : **Discussion 13**{: .label .label-disc } [SQL](https://drive.google.com/file/d/1je0OyWazU7-2x4mYhOWhPdf-h7w-SdnM/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/1kDEsV76A3-W-n6x3x06dmqus2EHJfBMl/view?usp=sharing)
 
 Aug 3
 : **Lecture 23**{: .label .label-lecture } PCA II
