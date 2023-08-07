@@ -31,7 +31,7 @@ UC Berkeley, Summer 2023
 </div>
 
 {: .highlight }
-> Welcome to [Week 7](#week-{{page.currWeekNumber}})!
+> Welcome to [Week 8](#week-{{page.currWeekNumber}})!
 
 
 <a name="schedule"></a>
