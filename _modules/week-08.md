@@ -10,7 +10,7 @@ Aug 7
 : **Lab 13**{: .label .label-lab } [Decision Trees](http://data100-jl4.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Flab%2Flab13%2Flab13.ipynb) <i>(optional)</i>
 
 Aug 8
-: **Lecture 25**{: .label .label-lecture} Closing
+: **Lecture 25**{: .label .label-lecture} [Conclusion](lecture/lec25)
 
 Aug 9
 : <i>Break (no lecture)</i>
