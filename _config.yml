@@ -30,7 +30,7 @@ permalink: pretty
 # External navigation links
 nav_external_links:
   - title: Course FAQ
-    url: https://ds100.org/su23faq
+    url: https://ds100.org/faqs/su23
     hide_icon: true
   - title: Course Notes
     url: https://ds100.org/course-notes-su23/
