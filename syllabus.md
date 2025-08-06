@@ -8,7 +8,7 @@ markdown: kramdown
 course:
     semester: Summer 2023
     edstem: 
-    faq: https://ds100.org/su23faq
+    faq: https://ds100.org/faqs/su23
     bcourses: ""
     instructors: Bella and Dominic
     head_ta_1: Mihran Miroyan
