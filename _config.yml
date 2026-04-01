@@ -71,3 +71,6 @@ defaults:
 callouts:
   highlight:
     color: yellow
+  warning:
+    title: Warning
+    color: red
